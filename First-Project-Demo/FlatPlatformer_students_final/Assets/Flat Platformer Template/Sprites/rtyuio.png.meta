@@ -1,24 +1,14 @@
 fileFormatVersion: 2
 guid: 5ee2c6d2281cdf04f8e0e14009ec8b84
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: Cart_0
-  - first:
-      213: 21300002
-    second: Cart_1
-  - first:
-      213: 21300004
-    second: Cart_2
-  - first:
-      213: 21300006
-    second: Cart_3
-  - first:
-      213: 21300008
-    second: Cart_4
+  fileIDToRecycleName:
+    21300000: Cart_0
+    21300002: Cart_1
+    21300004: Cart_2
+    21300006: Cart_3
+    21300008: Cart_4
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -125,7 +115,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6d7de74cf51644c498943a60da738e7d
-      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -146,7 +135,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1da82d01daaccc54cb81d83a69fc9c20
-      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -167,7 +155,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: afee229207ffe0449b5a10b817521d1e
-      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -188,7 +175,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e62b3adc31c7f249b416654e956755e
-      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -209,7 +195,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2ce10f557d7e6684bb9abc79eb911d49
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -218,12 +203,10 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

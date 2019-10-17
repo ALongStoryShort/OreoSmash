@@ -1,15 +1,11 @@
 fileFormatVersion: 2
 guid: 2cff10131edd93c459f88aa8a24942a9
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 4347436561310452300
-    second: WindMill_07_0
-  - first:
-      213: 574784794345685276
-    second: WindMill_07_1
+  fileIDToRecycleName:
+    21300000: WindMill_07_0
+    21300002: WindMill_07_1
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -105,7 +101,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 67094e93c540c1846b020eeb411ffdb2
-      internalID: 4347436561310452300
       vertices: []
       indices: 
       edges: []
@@ -126,7 +121,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8713fcf86004f9c4a9b97f632eccb11c
-      internalID: 574784794345685276
       vertices: []
       indices: 
       edges: []
@@ -135,12 +129,10 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 16a8dbe171d2419459bf0874b8aed523
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
