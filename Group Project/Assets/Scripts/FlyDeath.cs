@@ -17,7 +17,7 @@ public class FlyDeath : MonoBehaviour
         ContactPoint contact = collision.contacts[0];
         Quaternion rot = Quaternion.FromToRotation(Vector3.up, contact.normal);
         Vector3 pos = contact.point;
-        Instantiate(explosionPrefab, pos, rot);
+        Instantiate(myAnimator, pos, rot);
         Destroy(gameObject);
     }
 }
