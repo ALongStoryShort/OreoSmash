@@ -1,0 +1,60 @@
+ Here is the URL for Team 5 repository:
+https://github.com/ALongStoryShort/OreoSmash.git
+
+ Asset list:
+Bush_ground_13
+Windmill_0
+Door
+Yellow Flower Rotated Left
+Yellow Flower Rotated Right
+Blue Flower Windmill
+Red Flower Windmill
+Flowers_grass_3
+Flowers_grass_2
+Flowers_grass_1
+Flowers_grass_0
+Flowers_grass_3(1)
+Flowers_grass_2(1)
+Flowers_grass_0(1)
+Flowers_grass_1(1)
+Flowers_grass_1(2)
+Flowers_grass_0(2)
+Flowers_grass_3(2)
+Flowers_grass_0(2)
+Flowers_grass_3(2)
+Flowers_grass_0(3)
+Flowers_grass_2(2)
+Flowers_grass_3(3)
+Flowers_grass_1(3)
+Flowers_grass_0(4)
+Flowers_grass_3(4)
+Flowers_grass_1(4)
+Flowers_grass_0(5)
+Flowers_grass_2(3)
+Windmill_1
+Trees_18
+Bush_ground_2
+Bush_ground_6
+Square Red Flower
+Knight_bug_16
+Clouds_sky_5
+Flowers_grass_3(5)
+Flowers_grass_2(4)
+Mountains(1)
+Clouds_sky_4
+Clouds_4(1)
+
+Status of Implementation: 
+We have created a artistic scene for our gameplay to take place. Scripts and sound have been uploaded to unity, they just have to be connected.
+
+ Written follow up: 
+
+ The biggest challenge for this project?
+Our biggest challenge for this project has been that we have had issues with sprites and many of our objectives overlapped.
+
+ Do you agree with the roles you group selected or what changes would you make?
+I do agree with the roles our group selected because I think each person was well suited for each job and did the best they could in completing each of their tasks. The only changes I would make would be to have a larger group.
+ What did you learn about your particular role?
+I learned how even a single detail, no matter how small can make or break a project such as this.
+If you had to teach someone version control what tips would you give?
+Take helpful notes and stay calm. It does not help you to get stressed.
