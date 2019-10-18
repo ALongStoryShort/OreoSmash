@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 5da982195822eb849b895dc88a1e3c62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8694416706953003114
+    second: Bush_ground_0
+  - first:
+      213: 5333839089723264275
+    second: Bush_ground_1
+  - first:
+      213: 7943398041356204833
+    second: Bush_ground_2
+  - first:
+      213: 1487121363080612502
+    second: Bush_ground_3
+  - first:
+      213: 673225444567418302
+    second: Bush_ground_4
+  - first:
+      213: 5129821465883294434
+    second: Bush_ground_5
+  - first:
+      213: 5098143826397133051
+    second: Bush_ground_6
+  - first:
+      213: 9067239100534680790
+    second: Bush_ground_7
+  - first:
+      213: -7025341364798209139
+    second: Bush_ground_8
+  - first:
+      213: -8516796560262698391
+    second: Bush_ground_9
+  - first:
+      213: 5500692782841462391
+    second: Bush_ground_10
+  - first:
+      213: 5849384282809911098
+    second: Bush_ground_11
+  - first:
+      213: -7082106961195540852
+    second: Bush_ground_12
+  - first:
+      213: -1864372853460491684
+    second: Bush_ground_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bush_ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 578
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4eed3f00468b409f8215973836e83
+      internalID: 8694416706953003114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1231
+        width: 799
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643b03292054c446b93ead7eb9e2724
+      internalID: 5333839089723264275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 578
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159ddca98c2f4d40a9e594e630e3166
+      internalID: 7943398041356204833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1053
+        width: 799
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168bc30e97e7b7446afcac1652298e02
+      internalID: 1487121363080612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 578
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b7ae48afe78948831d4ad343c4bfa
+      internalID: 673225444567418302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 838
+        width: 579
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc40127870a6af4a966ba241b80917e
+      internalID: 5129821465883294434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 578
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f65763d73d2849ae5869d59d3c60f
+      internalID: 5098143826397133051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 620
+        width: 579
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79603a04eed7a0d4088294ac34413314
+      internalID: 9067239100534680790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 438
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630aff19b72e7b44a230fab1004f0a3
+      internalID: -7025341364798209139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_9
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 433
+        width: 305
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f7fa952969274e8f8a812c27be8ba
+      internalID: -8516796560262698391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 249
+        width: 305
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db5c63cf113af4d820ffe1f492bf86
+      internalID: 5500692782841462391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_11
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 344
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189fded1ff0ad54f8805508957cd59e
+      internalID: 5849384282809911098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf21ccd07d8ac84c918c36177a5467f
+      internalID: -7082106961195540852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_ground_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 42
+        width: 1292
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636741e4dba6c74ab4c09705ce49200
+      internalID: -1864372853460491684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0191dcf1a42a736409ec4d908189a588
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
